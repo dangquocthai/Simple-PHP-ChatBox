@@ -4,7 +4,7 @@ A simple chatbox which comes with a simple authentication page, to install read 
 
 (NOTE : The chatlog and onlineusers list are stored in a simple text file.)
 
-The login script was made by login-script.net, I just used it.
+The login script was made by php-login.net, I just used it.
 
 Installation instructions -
 
